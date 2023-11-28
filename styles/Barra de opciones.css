@@ -17,6 +17,10 @@ nav{
 
 .Contenedor{
     background-color: black;
+    margin-bottom: 25px;
+    position: sticky;
+    z-index: 100;
+    top: 0;
 }
 
 
