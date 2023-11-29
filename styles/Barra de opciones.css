@@ -32,3 +32,9 @@ a{
 a:hover{
     color: rgb(168, 168, 168);
 }
+body{
+    background-image: url(/imagenes/abstract-background-design-background-texture-design-with-abstract-style-creative-illustration-for-advertising-posters-business-cards-flyers-websites-banners-covers-landings-pages-etc-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

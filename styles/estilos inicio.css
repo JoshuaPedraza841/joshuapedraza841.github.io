@@ -20,9 +20,11 @@
     background-color: black;
     color: white;
     float: left;
-    height: 1000px;
+    height: 2000px;
     width: 200px;
     margin-right: 80px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
     
 }
 .izquierda .menu-item{
@@ -52,7 +54,7 @@
 }
 img{
     width: 70%;
-    border-radius: 0 50px;
+    border-radius: 50px 50px;
 }
 
 hr{
@@ -62,3 +64,5 @@ hr{
 #none{
     border-radius: 0;
 }
+
+
