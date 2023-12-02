@@ -76,4 +76,5 @@ footer{
 }
 .course p {
     padding: 20px;
+    max-width: 50px;
 }
