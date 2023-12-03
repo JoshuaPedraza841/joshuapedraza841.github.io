@@ -2,7 +2,34 @@
     text-decoration-line: underline;
     font-size: xx-large;
     padding-bottom: 20px;
+    border: 0cap;
+    background-color: transparent;
+    color: black;
+   
 }
-th{
+table, th, td{
     text-align: left;
+    
+}
+th, td{
+    padding: 20px;
+    border: dotted 5px rgb(0, 255, 234);
+    border-collapse: collapse;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+    
+    
+}
+table{
+    width: 500px;
+    
+    
+}
+.cvcolm{
+    column-count: 2;
+    column-gap: 0px;
+}
+video{
+    width: 50%;
 }
